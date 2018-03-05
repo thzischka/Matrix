@@ -1,0 +1,7 @@
+"/Applications/CLion 2.app/Contents/bin/cmake/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/andreweeckman/CLionProjects/matOperations
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.9 or higher is required.  You are running version 3.8.2
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/andreweeckman/CLionProjects/matOperations/cmake-build-debug/CMakeFiles/CMakeOutput.log".

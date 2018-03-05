@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.9)
 project(Problems_7)
 
-set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Problems_7
         Oracle/ColElementItr.o
